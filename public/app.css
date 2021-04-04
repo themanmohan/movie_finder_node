@@ -1,0 +1,20 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+
+table{
+    text-align: center;
+
+}
+
+table th{
+
+    text-align: center;
+}
+
+h1{
+    background: black;
+    color: wheat;
+    padding: 10px;
+}
